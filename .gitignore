@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Output folders
+dist
+target
+output
+
+# Metadata file
+metadata.json
+
+
+# Other
+package-lock.json
+.idea
